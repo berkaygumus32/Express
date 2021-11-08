@@ -45,4 +45,4 @@ partnerRouter.route('/')
     res.end('Deleting all promotions');
 });
 
-module.exports = promotionRouter;
+module.exports = partnerRouter;
